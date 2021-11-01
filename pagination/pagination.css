@@ -1,0 +1,11 @@
+div{
+    display: flex;
+    flex-direction: row;
+    height: 2rem;
+}
+body{
+    text-align: center;
+}
+input{
+    background-color: rgb(145, 206, 229);
+}
